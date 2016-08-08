@@ -4,17 +4,21 @@
 # User-specific files
 *.suo
 *.user
+*.userosscache
 *.sln.docstates
+build/configuration-user.xml
 
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
+[Rr]eleases/
 x64/
-build/
+x86/
 bld/
 [Bb]in/
 [Oo]bj/
+Lib/
 
 # Roslyn cache directories
 *.ide/
@@ -123,22 +127,19 @@ publish/
 # Publish Web Output
 *.[Pp]ublish.xml
 *.azurePubxml
-## TODO: Comment the next line if you want to checkin your
-## web deploy settings but do note that will include unencrypted
-## passwords
-#*.pubxml
+# TODO: Comment the next line if you want to checkin your web deploy settings
+# but database connection strings (with potential passwords) will be unencrypted
+*.pubxml
+*.publishproj
 
-# NuGet Packages Directory
-packages/*
-## TODO: If the tool you use requires repositories.config
-## uncomment the next line
-#!packages/repositories.config
-
-# Enable "build/" folder in the NuGet Packages folder since
-# NuGet packages use it for MSBuild targets.
-# This line needs to be after the ignore of the build folder
-# (and the packages folder if the line above has been uncommented)
-!packages/build/
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
 
 # Windows Azure Build Output
 csx/
@@ -148,7 +149,6 @@ csx/
 AppPackages/
 
 # Others
-sql/
 *.Cache
 ClientBin/
 [Ss]tyle[Cc]op.*
@@ -159,6 +159,7 @@ ClientBin/
 *.pfx
 *.publishsettings
 node_modules/
+bower_components/
 
 # RIA/Silverlight projects
 Generated_Code/
@@ -183,7 +184,135 @@ UpgradeLog*.htm
 # Microsoft Fakes
 FakesAssemblies/
 
-# LightSwitch generated files
-GeneratedArtifacts/
-_Pvt_Extensions/
-ModelManifest.xml
+# Sitecore
+Website/sitecore/**
+!Website/sitecore/shell/
+Website/sitecore/shell/**
+!Website/sitecore/shell/Themes/
+Website/sitecore/shell/Themes/**
+!Website/sitecore/shell/Themes/Standard/
+Website/sitecore/shell/Themes/Standard/**
+!Website/sitecore/shell/client/
+Website/sitecore/shell/client/**
+!Website/sitecore/shell/client/Applications/
+Website/sitecore/shell/client/Applications/**
+!Website/sitecore/shell/client/Applications/ContentTesting/
+Website/sitecore/shell/client/Applications/ContentTesting/**
+!Website/sitecore/shell/client/Applications/ContentTesting/Pages/
+Website/sitecore/shell/client/Applications/ContentTesting/Pages/**
+!Website/sitecore/shell/client/Applications/ContentTesting/Pages/PageTest/
+Website/sitecore/shell/client/Applications/ContentTesting/Pages/PageTest/**
+!Website/sitecore/shell/client/Applications/ContentTesting/Pages/PageTest/PageTest.js
+!Website/sitecore/shell/client/Applications/ContentTesting/Common/
+Website/sitecore/shell/client/Applications/ContentTesting/Common/**
+!Website/sitecore/shell/client/Applications/ContentTesting/Common/lib/
+Website/sitecore/shell/client/Applications/ContentTesting/Common/lib/**
+!Website/sitecore/shell/client/Applications/ContentTesting/Common/lib/SelectPagesToTest.js
+!Website/sitecore/shell/client/Sitecore/
+Website/sitecore/shell/client/Sitecore/**
+!Website/sitecore/shell/client/Sitecore/ExperienceEditor/
+Website/sitecore/shell/client/Sitecore/ExperienceEditor/**
+!Website/sitecore/shell/client/Sitecore/ExperienceEditor/Sitecore.ExperienceEditor.js
+!Website/sitecore/shell/client/Sitecore/ExperienceEditor/RibbonPageCode.js
+!Website/sitecore/shell/Controls/
+Website/sitecore/shell/Controls/**
+!Website/sitecore/shell/Controls/Rich Text Editor/
+Website/sitecore/shell/Controls/Rich Text Editor/**
+!Website/sitecore/shell/Controls/Rich Text Editor/ToolsFile.xml
+
+
+Website/App_Config/**
+!Website/App_Config/Include/
+!Website/App_Config/FieldTypes.config
+!Website/App_Config/Sitecore.config
+!Website/App_Config/Log4net.config
+!Website/App_Config/Log4net.config.*
+Website/App_Config/Include/**
+!Website/App_Config/Include/BranchPresets.config
+!Website/App_Config/Include/Dianoga.config
+!Website/App_Config/Include/Glass.Mapper.Sc.Config
+!Website/App_Config/Include/LiveMode.config.example
+!Website/App_Config/Include/Sitecore.Support.448745.config
+!Website/App_Config/Include/Sitecore.PullUpFields.config
+!Website/App_Config/Include/Sitecore.Environment.*
+!Website/App_Config/Include/Serialization
+!Website/App_Config/Include/Serialization/*.*
+!Website/App_Config/Include/ListManagement
+!Website/App_Config/Include/Z_Razl
+!Website/App_Config/Include/Z_Razl/ZZ_Razl.config.disabled
+Website/App_Config/Include/Z_Razl/ZZ_Razl.config
+Website/App_Config/Include/ListManagement/**
+!Website/App_Config/Include/ListManagement/Sitecore.ListManagement.Environment.*
+!Website/App_Config/Include/ContentTesting
+Website/App_Config/Include/ContentTesting/**
+!Website/App_Config/Include/ContentTesting/Sitecore.ContentTesting.Lucene.IndexConfiguration.Environment.*
+!Website/App_Config/Include/Sc.Commons
+!Website/App_Config/Include/Sc.Commons/EnsureDatasourceLocations.*
+!build/Scripts/ZipHelper.exe
+Website/Areas/Social
+Website/temp
+Website/upload/readme.txt
+Website/sitecore_files
+Website/webedit.css
+Website/layouts/system
+!Website/layouts/system/VisitorIdentification.js
+Database/Scripts/Sessions db performance boost.sql
+Website/layouts/xmlcontrol.aspx
+Website/App_Browsers/Form.browser
+Website/App_Browsers/XamlPage.browser
+Website/Default.aspx
+Website/default.css
+Website/default.htm.sitedown
+Website/default.js
+Website/layouts/QueryableRulesRunner.ascx
+Website/layouts/Sample Datasource Sublayout.ascx
+Website/layouts/Sample Inner Sublayout.ascx
+Website/layouts/Sample Sublayout.ascx
+Website/layouts/Sample layout.aspx
+Website/xsl/sample rendering.xslt
+Website/xsl/system/WebEdit/Hidden Rendering.xslt
+Website/App_Data
+Sitecore.Data/debug
+Sitecore.Data/diagnostics
+Sitecore.Data/indexes
+Sitecore.Data/logs
+Sitecore.Data/packages
+!Sitecore.Data/serialization/**
+Sitecore.Data/Submit Queue
+Sitecore.Data/tools
+Sitecore.Data/viewstate
+Sitecore.Data/license.xml
+Sitecore.Data/webdav.lic
+.sync
+*.wixobj
+WebSiteContent.wxs
+Setup/**
+Coverage/
+results.xml
+Website/Content/
+!wix/**
+Sitecore.Data/mongodb
+*.DS_Store
+.dblocal
+.smbdelete*
+Website/sitecore modules/Web/
+
+Website/sitecore modules/Shell/ExperienceExplorer/
+Website/sitecore modules/Shell/OBEC/
+Website/sitecore modules/Shell/UrlRewrite/
+
+.idea/
+frontend/proto/src
+frontend/src/js/plugins/modernizr.js
+.skip-frontend
+_shared-settings.scss
+ClearFrontendArtifacts.bat
+RecycleAppPool.bat
+Website/_CMP/
+!Website/Dianoga Tools/**
+Website/layouts/cart.aspx
+Website/App_Config/Include/Sitecore.Environment.User.config
+nunit-result.xml
+outputCobertura.xml
+.vs/config/applicationhost.config
+temp/

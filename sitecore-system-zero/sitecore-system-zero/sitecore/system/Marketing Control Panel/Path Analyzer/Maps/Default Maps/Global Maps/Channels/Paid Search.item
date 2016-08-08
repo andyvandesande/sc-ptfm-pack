@@ -1,0 +1,326 @@
+----item----
+version: 1
+id: {2BAEE9CC-57C8-42AC-9B98-6C635D986FCA}
+database: master
+path: /sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Global Maps/Channels/Paid Search
+parent: {1E3E0D1D-E86F-46CA-A740-14C67E46C3CC}
+name: Paid Search
+master: {00000000-0000-0000-0000-000000000000}
+template: {CD35E9CC-8A38-4F29-BA95-DC1C89A4B48F}
+templatekey: ChannelMap
+created: 20160519T084417:635992442578470000
+
+----field----
+field: {E77D7895-E8AF-4EEE-8873-E610208CE6D6}
+name: TargetChannel
+key: targetchannel
+content-length: 38
+
+{7C8AE9C5-8912-40CF-88C5-907570FB57E4}
+----field----
+field: {9C6106EA-7A5A-48E2-8CAD-F0F693B1E2D4}
+name: __Read Only
+key: __read only
+content-length: 1
+
+1
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{B879D176-4226-4C74-9ED4-6E61E813CBF7}
+----version----
+language: da
+version: 1
+revision: c9c5e1cf-e1af-4f76-aa13-b3551ad1eb7e
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 35
+
+Oplevelse af kanalen Betalt søgning
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 81
+
+<p>Denne oversigt viser den besøgendes oplevelse af kanalen "Betalt søgning".</p>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 14
+
+Betalt søgning
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160519T084700Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c9c5e1cf-e1af-4f76-aa13-b3551ad1eb7e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T084700Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{D86A72B4-7C3D-447E-9622-66B0DC1243F8}
+----version----
+language: de-DE
+version: 1
+revision: 467a897f-b3a8-4bd8-9be5-71113b279bdc
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 29
+
+Bezahlte Suche Kanalerfahrung
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 72
+
+<p>Diese Karte zeigt Besuchererlebnisse des Kanals "Bezahlte Suche".</p>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 14
+
+Bezahlte Suche
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160519T084831Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+467a897f-b3a8-4bd8-9be5-71113b279bdc
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T084831Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{D86A72B4-7C3D-447E-9622-66B0DC1243F8}
+----version----
+language: en
+version: 1
+revision: fd2f611f-d716-4932-9a54-a48335d3b646
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 30
+
+Paid Search Channel Experience
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 70
+
+<p>This map shows visitor experience of the "Paid Search" channel.</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150618T024549Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fd2f611f-d716-4932-9a54-a48335d3b646
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T085226Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{D86A72B4-7C3D-447E-9622-66B0DC1243F8}
+----version----
+language: ja-JP
+version: 1
+revision: f8aeb023-4fa1-4ae0-be53-620a37b00724
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 17
+
+有料検索チャネルのエクスペリエンス
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 43
+
+<p>このマップは "有料検索" チャネルの訪問者エクスペリエンスを表示します</p>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+有料検索
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160519T084524Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f8aeb023-4fa1-4ae0-be53-620a37b00724
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T084524Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{D86A72B4-7C3D-447E-9622-66B0DC1243F8}

@@ -1,0 +1,305 @@
+----item----
+version: 1
+id: {1EB29510-03A2-4D5B-8D13-8088E4C40F9E}
+database: master
+path: /sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Highest Average Monetary Value Paths
+parent: {CD987A31-A2EF-4309-B3FC-2060451694B3}
+name: Highest Average Monetary Value Paths
+master: {00000000-0000-0000-0000-000000000000}
+template: {3C7C63EE-F6B5-4C41-85D4-840EF9D875A8}
+templatekey: Report
+created: 20160519T084418:635992442582230000
+
+----field----
+field: {19A7925F-49D4-438B-8173-8ABCA9E13767}
+name: Category
+key: category
+content-length: 8
+
+TopPaths
+----field----
+field: {ED42832F-C994-4ED7-8ED3-5408A89C6C52}
+name: Type
+key: type
+content-length: 84
+
+Sitecore.PathAnalyzer.Reports.HighestAverageMonetaryValuePaths,Sitecore.PathAnalyzer
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----version----
+language: da
+version: 1
+revision: 8a3edfee-719f-43d1-932e-f9f85d293ce3
+
+----field----
+field: {8D8A072A-741E-4804-B68F-E5B3677F63D3}
+name: Name
+key: name
+content-length: 23
+
+Højeste gns. Pengeværdi
+----field----
+field: {AC59C256-FB50-4592-AA15-9C119B6AC8F8}
+name: Description
+key: description
+content-length: 68
+
+Viser de stier, der fører til den højeste gennemsnitlige pengeværdi.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 43
+
+Stier til højeste gennemsnitlige pengeværdi
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160519T084659Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8a3edfee-719f-43d1-932e-f9f85d293ce3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T084659Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: fc342529-7fd8-4a43-ab5c-09653c3bef23
+
+----field----
+field: {8D8A072A-741E-4804-B68F-E5B3677F63D3}
+name: Name
+key: name
+content-length: 36
+
+Höchster durchschnittlicher Geldwert
+----field----
+field: {AC59C256-FB50-4592-AA15-9C119B6AC8F8}
+name: Description
+key: description
+content-length: 69
+
+Zeigt die Pfade, die zum höchsten durchschnittlichen Geldwert führen.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 43
+
+Höchster durchschnittlicher Geldwert Pfade.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160519T084831Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fc342529-7fd8-4a43-ab5c-09653c3bef23
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T084831Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 8535832d-4a1a-452b-a865-97872d6d5b64
+
+----field----
+field: {8D8A072A-741E-4804-B68F-E5B3677F63D3}
+name: Name
+key: name
+content-length: 27
+
+Highest Avg. Monetary Value
+----field----
+field: {AC59C256-FB50-4592-AA15-9C119B6AC8F8}
+name: Description
+key: description
+content-length: 64
+
+Shows the paths that lead to the highest average monetary value.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 0
+
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20140924T210820Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8535832d-4a1a-452b-a865-97872d6d5b64
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20150707T235052Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 526ff98a-8eb9-45f6-bdf5-adcc490f1887
+
+----field----
+field: {8D8A072A-741E-4804-B68F-E5B3677F63D3}
+name: Name
+key: name
+content-length: 10
+
+最も高い平均貨幣価値
+----field----
+field: {AC59C256-FB50-4592-AA15-9C119B6AC8F8}
+name: Description
+key: description
+content-length: 26
+
+最も高い平均貨幣価値を導いた Path を表示します
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 10
+
+最も高い平均貨幣価値
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160519T084523Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+526ff98a-8eb9-45f6-bdf5-adcc490f1887
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T084523Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

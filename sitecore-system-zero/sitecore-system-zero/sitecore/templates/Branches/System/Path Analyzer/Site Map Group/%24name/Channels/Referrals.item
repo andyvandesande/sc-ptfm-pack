@@ -1,0 +1,305 @@
+----item----
+version: 1
+id: {46B0C722-93C4-4420-862E-D06FEA858A3B}
+database: master
+path: /sitecore/templates/Branches/System/Path Analyzer/Site Map Group/$name/Channels/Referrals
+parent: {6CB27C33-3878-4659-85C4-65C20AF2CCF1}
+name: Referrals
+master: {00000000-0000-0000-0000-000000000000}
+template: {CD35E9CC-8A38-4F29-BA95-DC1C89A4B48F}
+templatekey: ChannelMap
+created: 20160519T084417:635992442570970000
+
+----field----
+field: {E77D7895-E8AF-4EEE-8873-E610208CE6D6}
+name: TargetChannel
+key: targetchannel
+content-length: 38
+
+{E3D68FCD-7B00-46C8-BB7A-38CB9E169B08}
+----field----
+field: {9C6106EA-7A5A-48E2-8CAD-F0F693B1E2D4}
+name: __Read Only
+key: __read only
+content-length: 0
+
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 0
+
+
+----version----
+language: da
+version: 1
+revision: fefb8553-3a56-47f3-9c9f-57b8994bb6ba
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 22
+
+Henvisning kanalgruppe
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 89
+
+<p>Denne oversigt viser den besøgendes oplevelse af kanalen "Henvisning kanalgruppe".</p>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 12
+
+Henvisninger
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160519T084702Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fefb8553-3a56-47f3-9c9f-57b8994bb6ba
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T084702Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 76f4cd7c-accb-44fd-b032-a5c4f16fdba8
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 21
+
+Verweise Kanal Gruppe
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 79
+
+<p>Diese Karte zeigt Besuchererfahrungen des Kanals "Referral-Kanalgruppe".</p>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 8
+
+Verweise
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160519T084834Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+76f4cd7c-accb-44fd-b032-a5c4f16fdba8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T084834Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: debd41db-0847-402a-be1f-1c122172c022
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 22
+
+Referral Channel Group
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 81
+
+<p>This map shows visitor experience of the "Referral Channel Group" channel.</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150701T221255Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+debd41db-0847-402a-be1f-1c122172c022
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20150731T001041Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 0
+
+
+----version----
+language: ja-JP
+version: 1
+revision: afb7fc36-3c5d-42c3-aa31-6a460b1cf99a
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 12
+
+参照元チャネル グループ
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 51
+
+<p>このマップは "参照元チャネル グループ" チャネルの訪問者エクスペリエンスを表示します</p>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 3
+
+参照元
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160519T084526Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+afb7fc36-3c5d-42c3-aa31-6a460b1cf99a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T084526Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,326 @@
+----item----
+version: 1
+id: {B711C785-EB07-491F-B5E6-A2118946A96F}
+database: master
+path: /sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Site Maps/website/Channels/Direct
+parent: {3F6C79E1-FB98-4CF6-A066-FC9E6F648DB9}
+name: Direct
+master: {00000000-0000-0000-0000-000000000000}
+template: {CD35E9CC-8A38-4F29-BA95-DC1C89A4B48F}
+templatekey: ChannelMap
+created: 20160519T084418:635992442580130000
+
+----field----
+field: {E77D7895-E8AF-4EEE-8873-E610208CE6D6}
+name: TargetChannel
+key: targetchannel
+content-length: 38
+
+{B418E4F2-1013-4B42-A053-B6D4DCA988BF}
+----field----
+field: {9C6106EA-7A5A-48E2-8CAD-F0F693B1E2D4}
+name: __Read Only
+key: __read only
+content-length: 1
+
+1
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{B879D176-4226-4C74-9ED4-6E61E813CBF7}
+----version----
+language: da
+version: 1
+revision: 58cddae9-b51f-48a6-9cf5-37299d242784
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 27
+
+Oplevelse af Direct-kanalen
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 73
+
+<p>Denne oversigt viser den besøgendes oplevelse af kanalen "Direct".</p>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 7
+
+Direkte
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160519T084711Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+58cddae9-b51f-48a6-9cf5-37299d242784
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T084711Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{D86A72B4-7C3D-447E-9622-66B0DC1243F8}
+----version----
+language: de-DE
+version: 1
+revision: ff0e397c-c459-455b-9cf0-a34f79c7589a
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 22
+
+Direkte Kanalerfahrung
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 64
+
+<p>Diese Karte zeigt Besuchererlebnisse des Kanals "Direkt".</p>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 6
+
+Direkt
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160519T084843Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ff0e397c-c459-455b-9cf0-a34f79c7589a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T084843Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{D86A72B4-7C3D-447E-9622-66B0DC1243F8}
+----version----
+language: en
+version: 1
+revision: 66835a8a-6b3c-43e6-80b8-0038f35c505c
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 25
+
+Direct Channel Experience
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 65
+
+<p>This map shows visitor experience of the "Direct" channel.</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150618T024411Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+66835a8a-6b3c-43e6-80b8-0038f35c505c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T085227Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{D86A72B4-7C3D-447E-9622-66B0DC1243F8}
+----version----
+language: ja-JP
+version: 1
+revision: 793dfa5b-131a-428b-a0a9-76b7357c81e6
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 19
+
+ダイレクト チャネル エクスペリエンス
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 44
+
+<p>このマップは "ダイレクト" チャネルの訪問者エクスペリエンスを表示します</p>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+直接訪問
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160519T084533Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+793dfa5b-131a-428b-a0a9-76b7357c81e6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T084533Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{D86A72B4-7C3D-447E-9622-66B0DC1243F8}

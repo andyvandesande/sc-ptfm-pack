@@ -1,0 +1,326 @@
+----item----
+version: 1
+id: {FE1E048F-9394-46AE-B954-88833B4E13FC}
+database: master
+path: /sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Site Maps/website/Experience Maps/Experience Map with Goals
+parent: {A35347DE-592D-4203-B070-923F9F726744}
+name: Experience Map with Goals
+master: {00000000-0000-0000-0000-000000000000}
+template: {B99B5D85-64F1-4C19-8BFC-F96726BFE2E2}
+templatekey: ExperienceMap
+created: 20160519T084418:635992442581030000
+
+----field----
+field: {115963EA-0CC0-4D91-82C1-6ED0E1AFB4DC}
+name: IncludeEntryPage
+key: includeentrypage
+content-length: 0
+
+
+----field----
+field: {EBF6B297-B414-46EC-9E70-4073CD3AE390}
+name: IncludeExitPage
+key: includeexitpage
+content-length: 0
+
+
+----field----
+field: {D6FEDCFD-4D9B-44C7-910E-3672EF8E0316}
+name: IncludePageEvents
+key: includepageevents
+content-length: 0
+
+
+----field----
+field: {130EB63F-09CF-4097-874D-E52B78E425D6}
+name: IncludeGoals
+key: includegoals
+content-length: 1
+
+1
+----field----
+field: {EB18986F-0886-4D3C-BA5B-AE8EA21301BB}
+name: IncludeOutcomes
+key: includeoutcomes
+content-length: 1
+
+1
+----field----
+field: {9C6106EA-7A5A-48E2-8CAD-F0F693B1E2D4}
+name: __Read Only
+key: __read only
+content-length: 1
+
+1
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{B879D176-4226-4C74-9ED4-6E61E813CBF7}
+----version----
+language: da
+version: 1
+revision: b562783f-0d81-4102-8c02-00735e823016
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 26
+
+Oplevelsesoversigt med mål
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 26
+
+Oplevelsesoversigt med mål
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160519T084716Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b562783f-0d81-4102-8c02-00735e823016
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T084716Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{D86A72B4-7C3D-447E-9622-66B0DC1243F8}
+----version----
+language: de-DE
+version: 1
+revision: 7a4789ec-769a-48f2-8d7c-725ee001a23a
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 26
+
+Erfahrungskarte mit Zielen
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 26
+
+Erfahrungskarte mit Zielen
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160519T084848Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7a4789ec-769a-48f2-8d7c-725ee001a23a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T084848Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{D86A72B4-7C3D-447E-9622-66B0DC1243F8}
+----version----
+language: en
+version: 1
+revision: 96d351ff-0555-4f8b-a43f-f047c16548b8
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 25
+
+Experience Map with Goals
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150710T010601Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+96d351ff-0555-4f8b-a43f-f047c16548b8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T085227Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{D86A72B4-7C3D-447E-9622-66B0DC1243F8}
+----version----
+language: ja-JP
+version: 1
+revision: 750958ae-9014-40c9-a28f-2cb4398e26b9
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 18
+
+ゴールを含むエクスペリエンス マップ
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 18
+
+ゴールを含むエクスペリエンス マップ
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160519T084538Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+750958ae-9014-40c9-a28f-2cb4398e26b9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160519T084538Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{D86A72B4-7C3D-447E-9622-66B0DC1243F8}
